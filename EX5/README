@@ -1,0 +1,10 @@
+NAMES:
+
+Ron Amir
+Yuval Dellus
+
+FILES:
+main.py - our implementation of the exercise
+util.py - functions needed to compute bonus questions' embedding
+Chu_Liu_Edmonds_algorithm.py - Chu_Liu_Edmonds_algorithm
+Answers.pdf - our results and answers to the exercise's questions
